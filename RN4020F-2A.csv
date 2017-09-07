@@ -1,0 +1,17 @@
+"Part";"Value";"Device";"Package";"Description";"PROD_ID";"VALUE";
+"C1";"0.1u";"C-EUC0603";"C0603";"CAPACITOR, European symbol";"";"";
+"C2";"22p";"C-EUC0603";"C0603";"CAPACITOR, European symbol";"";"";
+"C3";"22p";"C-EUC0603";"C0603";"CAPACITOR, European symbol";"";"";
+"C4";"0.1u";"C-EUC0603";"C0603";"CAPACITOR, European symbol";"";"";
+"C5";"4.7u";"C-EUC1206";"C1206";"CAPACITOR, European symbol";"";"";
+"J1";"";"PINHD-1X8";"1X08";"PIN HEADER";"";"";
+"J2";"";"PINHD-1X8";"1X08";"PIN HEADER";"";"";
+"J3";"";"PINHD-1X6";"1X06";"PIN HEADER";"";"";
+"Q1";"8MHz";"XTAL/S";"QS";"CRYSTAL";"";"";
+"R1";"10K";"R-EU_R0603";"R0603";"RESISTOR, European symbol";"";"";
+"R2";"10K";"R-EU_R0603";"R0603";"RESISTOR, European symbol";"";"";
+"R3";"10K";"R-EU_R0603";"R0603";"RESISTOR, European symbol";"";"";
+"RST";"";"BTN2-EX";"B3F-10XX";"";"";"";
+"T1";"2SC2712";"BC846";"SOT23";"NPN TRANSISTOR";"";"";
+"U1";"ATMEGA328P_TQFP";"ATMEGA328P_TQFP";"TQFP32-08";"";"IC-09069";"ATMEGA328P_TQFP";
+"U2";"NJM2866F33";"NJM2866F33";"SOT23-3";"";"";"";
